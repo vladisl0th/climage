@@ -10,10 +10,18 @@ A colection of spells to help you take your wizardry to the next level.
 ## learning
 | Command  | Description |
 | ------------- | ------------- |
+| [aprops](https://manned.org/apropos.1) | Search [The Manual](https://manned.org/) titels for a keyword. |
 | [fuck](https://github.com/nvbn/thefuck) | Attempts to correct previous [PS1](https://wiki.archlinux.org/title/Bash/Prompt_customization#Prompts) error. |
 | [tldr](https://github.com/tldr-pages/tldr) | Too Long Didn't Read, for those who want to grep harder. |
-| whatis | Manual one liners.  |
+| [whatis](https://manned.org/whatis.1) | One liners from [The Manual](https://manned.org/). |
 | [wtf](https://sourceforge.net/projects/bsdwtf/files/) | Acronym dictionary.  |
+
+## optimisation
+| Command  | Description |
+| ------------- | ------------- |
+| [boxxy](https://github.com/queer/boxxy) | Tidy up your dotfiles, make ~ great again! |
+| [hyperfine](https://github.com/sharkdp/hyperfine) | Program benchmarking tool.  |
+| [time](https://manned.org/time.1) | Measure how long a program took to run. |
 
 ## search 
 | Command  | Description |
