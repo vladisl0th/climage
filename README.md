@@ -7,10 +7,18 @@ A colection of spells to help you take your wizardry to the next level.
 | [capa](https://github.com/mandiant/capa) | Identify potential malicious capabilities of a file, with reference to [MITRE ATT&CK](https://attack.mitre.org/). |
 | [searchsploit](https://gitlab.com/exploit-database/exploitdb) | Serch and use exploits from [The Exploit Database](https://www.exploit-db.com/). |
 
+## isolation
+| Command  | Description |
+| ------------- | ------------- |
+| [firejail](https://github.com/netblue30/firejail) | Sandboxing tool based on SUID flags |
+| [bublewrap](https://github.com/containers/bubblewrap) | Sanboxing tool as seen in flatpack |
+| [qemu](https://www.qemu.org/) | A very powerfull KVM type 2 hypervisor  |
+
+
 ## learning
 | Command  | Description |
 | ------------- | ------------- |
-| [aprops](https://manned.org/apropos.1) | Search [The Manual](https://manned.org/) titels for a keyword. |
+| [apropos](https://manned.org/apropos.1) | Search [The Manual](https://manned.org/) titels for a keyword. |
 | [fuck](https://github.com/nvbn/thefuck) | Attempts to correct previous [PS1](https://wiki.archlinux.org/title/Bash/Prompt_customization#Prompts) error. |
 | [tldr](https://github.com/tldr-pages/tldr) | Too Long Didn't Read, for those who want to grep harder. |
 | [whatis](https://manned.org/whatis.1) | One liners from [The Manual](https://manned.org/). |
